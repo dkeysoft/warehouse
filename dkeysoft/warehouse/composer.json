@@ -2,8 +2,6 @@
   "name": "dkeysoft/warehouse",
   "type": "library",
   "description": "Warehouse, products, access",
-  "keywords": ["OOP", "Design Patterns"],
-  "minimum-stability":"stable",
   "license": "BSD-3-Clause",
 
   "authors": [
