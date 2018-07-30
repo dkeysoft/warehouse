@@ -5,11 +5,11 @@ How to use it
 
  for robot and card control:
  
- `$warehouse = WarehouseHelper::createWarehouse(
+ ``$warehouse = WarehouseHelper::createWarehouse(
       WarehouseId::WAREHOUSE_BY_CARD,
       new Card(),
       new CardAccessManager()
- );`
+ );``
 
 create warehouse which can be accessed by passport, Valya checks  
 for Zina: WarehouseId::WAREHOUSE_BY_PASSPORT_ZINA
