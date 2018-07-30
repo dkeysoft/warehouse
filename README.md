@@ -1,6 +1,8 @@
 How to use it
 
-
+```
+composer require dkeysoft/warehouse
+```
 
 
  for robot and card control:
