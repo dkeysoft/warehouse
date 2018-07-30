@@ -1,6 +1,8 @@
 How to use it
 
-
+```
+php composer.phar require dkeysoft/warehouse:dev-master
+```
 
 
  for robot and card control:
