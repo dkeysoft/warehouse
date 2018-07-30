@@ -41,5 +41,7 @@ if ($warehouse->hasAccess()) {
     $warehouse->getProducts();
     // take products from warehouse
     $taken_products = $warehouse->takeProductsById([1, 2]);
+    // get amount of products
+    $warehouse->getCountProducts();
 }
 ```
