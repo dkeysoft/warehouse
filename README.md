@@ -1,7 +1,7 @@
 How to use it
 
 ```
-composer require dkeysoft/warehouse
+php composer.phar require dkeysoft/warehouse:dev-master
 ```
 
 
